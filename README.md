@@ -35,9 +35,15 @@ audio-feature-extraction/
 ├── requirements.txt                  # Python dependencies
 ├── LICENSE                           # MIT License
 └── README.md                         # Project overview
+
 📷 Sample Outputs
+
 🔊 Onset Strength & Detected Beats
 
 🎼 Spectrogram (STFT)
 
 🎵 Pitch Estimation
+This project is licensed under the MIT License © 2025 Sravan Sai Methuku.
+You are free to use, copy, modify, and distribute this software with attribution.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
