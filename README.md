@@ -13,15 +13,15 @@ Perform time-frequency analysis
 Estimate pitch and visualize musical patterns for classification tasks
 
 📌 Key Features
-🎵 Load Audio Files: MP3 input via librosa.load()
+Load Audio Files: MP3 input via librosa.load()
 
-🧩 Rhythm Feature Extraction: Beat tracking, tempo estimation, onset strength analysis
+Rhythm Feature Extraction: Beat tracking, tempo estimation, onset strength analysis
 
-📊 Visualization: Waveform, onset strength, tempo histograms, spectrograms
+Visualization: Waveform, onset strength, tempo histograms, spectrograms
 
-🎚️ Pitch Estimation: Frequency analysis over time using STFT and piptrack
+Pitch Estimation: Frequency analysis over time using STFT and piptrack
 
-📈 Spectrogram Generation: Convert audio amplitudes to dB scale
+Spectrogram Generation: Convert audio amplitudes to dB scale
 
 📁 Project Structure
 bash
